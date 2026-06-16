@@ -9,9 +9,12 @@ Small RE_Kenshi plugin that adds a draggable transparent dialogue overlay.
 
 ## Requirements
 
-- Kenshi 1.0.65
 - RE_Kenshi
 
 ## Notes
 
-This first build captures `Dialogue::say(text, line)` and appends the most recent dialogue lines to a movable window near the middle-right of the screen.
+This first build captures `Dialogue::say(text, line)` and appends the most recent dialogue lines to a transparent window near the middle-right of the screen.
+
+## Future Additions 
+
+- In game Settings Menu to control font sizing and message duration.
